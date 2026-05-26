@@ -4,7 +4,7 @@
 
 ## 🌐 Живая версия
 
-[Открыть сайт](https://s1rake.github.io/soundwave)
+[Открыть сайт](https://s1rake.github.io/SoundWave/)
 
 ## ✨ Функциональность
 
